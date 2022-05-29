@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CHAKRA-UI_SIDEBAR/static/css/main.e6c13ad2.css",
+    "main.js": "/CHAKRA-UI_SIDEBAR/static/js/main.191cc6e8.js",
+    "static/js/787.bca780bf.chunk.js": "/CHAKRA-UI_SIDEBAR/static/js/787.bca780bf.chunk.js",
+    "index.html": "/CHAKRA-UI_SIDEBAR/index.html",
+    "main.e6c13ad2.css.map": "/CHAKRA-UI_SIDEBAR/static/css/main.e6c13ad2.css.map",
+    "main.191cc6e8.js.map": "/CHAKRA-UI_SIDEBAR/static/js/main.191cc6e8.js.map",
+    "787.bca780bf.chunk.js.map": "/CHAKRA-UI_SIDEBAR/static/js/787.bca780bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.191cc6e8.js"
+  ]
+}
